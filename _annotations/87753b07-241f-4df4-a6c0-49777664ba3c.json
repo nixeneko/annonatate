@@ -1,0 +1,38 @@
+---
+canvas: "https://iiif.archive.org/iiif/badesguineb00483$6/canvas"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u0391",
+            "purpose": "commenting",
+            "creator": {
+                "id": "nixeneko",
+                "name": "nixeneko"
+            },
+            "created": "2024-01-27T07:12:16.306Z",
+            "modified": "2024-01-27T07:12:17.698Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.archive.org/iiif/badesguineb00483/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.archive.org/iiif/badesguineb00483$6/canvas",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=348.49481201171875,769.841064453125,86.3636474609375,87.272705078125"
+        }
+    },
+    "id": "87753b07-241f-4df4-a6c0-49777664ba3c.json",
+    "motivation": "commenting"
+}
