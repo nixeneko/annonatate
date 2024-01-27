@@ -1,3 +1,12 @@
-images: []
+images:
+- added: '2024-01-27 07:11:41.561238'
+  iiif: true
+  thumbnail: https://iiif.archive.org/image/iiif/3/badesguineb00483%2Fbadesguineb00483_jp2.zip%2Fbadesguineb00483_jp2%2Fbadesguineb00483_0000.jp2/full/max/0/default.jpg
+  title:
+  - none:
+    - Alphabetum graecum.  Janus Lascaris. De Veris graecarum litterarum apud antiquos
+      formis et causis
+  url: https://iiif.archive.org/iiif/badesguineb00483/manifest.json
+  user: nixeneko
 settings: {}
 version: '2.1'
